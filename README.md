@@ -1,6 +1,5 @@
 <p align="center">
     <a href="https://github.com/judeokeleke/judeokeleke"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/golang/go"><img src="https://img.shields.io/github/go-mod/go-version/gomods/athens.svg"></a>
     <a href="https://github.com/ghostdev-labs/judeokeleke/graphs/contributors"><img src="https://img.shields.io/github/contributors/judeokeleke/judeokeleke?color=blue"></a>
     <a href="https://github.com/judeokeleke"><img src="https://img.shields.io/github/stars/judeokeleke.svg?color=blue&logo=github"></a>
     <a href="https://github.com/judeokeleke/judeokeleke/network/members"><img src="https://img.shields.io/github/forks/judeokeleke/judeokeleke.svg?color=blue&logo=github"></a>
@@ -8,7 +7,7 @@
     <img src="https://gpvc.arturio.dev/judeokeleke" alt="profile views">
 </p>
 
-
+[![](./src/header.jpg)](#)
 
 
 
