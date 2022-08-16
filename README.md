@@ -10,6 +10,10 @@
 [![](./header_.jpg)](#)
 
 
+<p align="center">
+  <a href="https://github.com/ghostdev-labs/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20and%20app%20developer;Experienced%20JavaScript%20Developer;Always%20learning%20new%20things.;WELCOME%20TO%20MY%20CAVE.&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
+
 
 # Hello there; welcome to my crib 👋🏾
 
@@ -25,6 +29,36 @@ I'm a Software Engineer, I'm passionate about sharing knowledge, documentation, 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing jiokeleke@gmail.com.
+
+---
+
+## 👨‍💻 Languages and Tools
+
+<div align="center">
+  
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/c++.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/next.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/django.jpg?raw=true" height="60" width="60">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+
+<br>
+
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/php.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/sql.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/ghostdev-labs/ghostdev-labs/blob/main/logos/bootstrap.png?raw=true" height="60" width="60">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+
+</div>
 
 ---
 
