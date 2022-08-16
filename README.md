@@ -20,6 +20,5 @@ I'm a Software Engineer, I'm passionate about sharing knowledge, documentation, 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=judeokeleke&show_icons=true&include_all_commits=true&hide_border=true" alt="Jude's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judeokeleke&langs_count=8&layout=compact&hide_border=true" alt="Jude's GitHub stats" /> |
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
 
 | ------------- | ------------- |
