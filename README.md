@@ -62,6 +62,31 @@ I'm a Software Engineer, I'm passionate about sharing knowledge, documentation, 
 
 ---
 
+## 📈 GitHub Activity Graph:
+
+<table>
+    <tr>
+        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=judeokeleke&show_icons=true&include_all_commits=true&hide_border=true" alt="Jude's GitHub stats" /></td>
+        <td rowspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judeokeleke&langs_count=8&layout=compact&hide_border=true" alt="Jude's GitHub stats" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=judeokeleke&theme=tokyonight" /></td>
+    </tr>
+</table>
+
+---
+
+
+### 🤔 A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   </i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+---
+
+
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
