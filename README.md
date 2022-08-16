@@ -80,7 +80,7 @@ I'm a Software Engineer, I'm passionate about sharing knowledge, documentation, 
 ### 🤔 A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   </i>
+• <i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
