@@ -5,6 +5,8 @@
     <a href="https://github.com/judeokeleke/judeokeleke/network/members"><img src="https://img.shields.io/github/forks/judeokeleke/judeokeleke.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=judeokeleke.judeokeleke" alt="visitors"/>
     <img src="https://gpvc.arturio.dev/judeokeleke" alt="profile views">
+    <img src="https://profile-counter.glitch.me/judeokeleke/count.svg? color=pink&logo=github" alt="profile views">
+
     
 </p>
 
