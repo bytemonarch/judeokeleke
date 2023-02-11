@@ -5,6 +5,7 @@
     <a href="https://github.com/judeokeleke/judeokeleke/network/members"><img src="https://img.shields.io/github/forks/judeokeleke/judeokeleke.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=judeokeleke.judeokeleke" alt="visitors"/>
     <img src="https://gpvc.arturio.dev/judeokeleke" alt="profile views">
+    
 </p>
 
 [![](./header_.jpg)](#)
@@ -60,26 +61,6 @@ I'm a Software Engineer, I'm passionate about sharing knowledge, documentation, 
 
 </div>
 
----
-<!--START_SECTION:badges-->
-name: Update badges
-
-on:
-  schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
-jobs:
-  update-readme:
-    name: Update Readme with badges
-    runs-on: ubuntu-latest
-    steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@master
-          ACCLAIM_USER: <username_acclaim> # optional, but default will use the same from github
-
-
-<!--END_SECTION:badges-->
----
 
 ## 📈 GitHub Activity Graph:
 
